@@ -1,0 +1,35 @@
+
+body{
+  background-color: white;
+  margin: 0 auto;
+  
+}
+
+.title {
+  font-size: 50px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 50px 0;
+  color: bisque;
+}
+
+.main{
+  
+}
+
+.main .test1 {
+  text-align: center;
+}
+
+
+.main .test1 .todo {
+  height: 20px;
+}
+
+.main .test1 .btn {
+
+}
+
+.todoLsit {
+  text-align: center;
+}
